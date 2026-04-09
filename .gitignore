@@ -3,7 +3,6 @@ __pycache__/
 *.pyc
 .pytest_cache/
 
-checkpoints/
-data/
-results/
+data/classification_data/
+data/verification_data/
 demo.mp4
